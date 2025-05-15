@@ -1,6 +1,6 @@
 
   <h1 style="color: #2e7d32;">🌿 Eco-Scan</h1>
-  <img src="/images/Screenshot 2.png" alt="EcoScan Screenshot" width="400">
+  <img src="/images/Screenshot 2.png" alt="EcoScan Screenshot" width="800">
 
   <p><strong>Empowering eco-conscious shopping through invisible product scans</strong><br>
   Built for the <strong>Google Solution Challenge 2025</strong> — Targeting <em>UN SDG 12: Responsible Consumption & Production</em></p>
