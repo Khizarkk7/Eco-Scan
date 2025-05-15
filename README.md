@@ -20,6 +20,8 @@
   <p>Without clear answers, most purchases are made without environmental awareness — and brands aren’t pressured to be more transparent.</p>
 
   <h2 style="color: #388e3c;">📽️ Demo Video</h2>
+   <img src="/images/Screenshot%202.png" width="400"><br>
+  <a href="https://youtu.be/your-video-id">
   
   <h2 style="color: #388e3c;">💡 Our Solution</h2>
   <p>Eco-Scan allows users to scan a product’s invisible tag and instantly view:</p>
