@@ -75,9 +75,9 @@
   
   ## 👥  Contributors
   
- |[Khizar Saqib](https://github.com/Khizarkk7)|[Ali Osaid](https://github.com/ali-osaid01)|[Sidra]()|[Maham Aftab]()|
+ |[Khizar Saqib](https://github.com/Khizarkk7)|[Ali Osaid](https://github.com/ali-osaid01)|[Maham Aftab](https://github.com/mahumaftab)|[Sidra]()|
 |---|---|---|---|
-|<img src="https://avatars.githubusercontent.com/u/124410812?v=4">|<img src="https://avatars.githubusercontent.com/u/183327585?v=4">|<img src="">|<img src="">|
+|<img src="https://avatars.githubusercontent.com/u/124410812?v=4">|<img src="https://avatars.githubusercontent.com/u/183327585?v=4">|<img src="https://avatars.githubusercontent.com/u/211882705?v=4">|<img src="">|
 
 </div>
 
