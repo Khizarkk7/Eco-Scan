@@ -1,7 +1,6 @@
 
   <h1 style="color: #2e7d32;">🌿 Eco-Scan</h1>
-
-![Eco-Scan Screenshot](https://user-images.githubusercontent.com/124410812/xxxxxx-your-image-name.png)
+![EcoScan Screenshot](/images/Screenshot 2.png)
 
   <p><strong>Empowering eco-conscious shopping through invisible product scans</strong><br>
   Built for the <strong>Google Solution Challenge 2025</strong> — Targeting <em>UN SDG 12: Responsible Consumption & Production</em></p>
