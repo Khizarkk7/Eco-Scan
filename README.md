@@ -38,7 +38,8 @@
     <li><strong>📉 Carbon footprint estimates</strong></li>
   </ul>
   <p>This empowers consumers and promotes responsible production practices.</p>
-
+ <img src="/images/Screenshot3.png" alt="EcoScan Screenshot" width="800" height="600">
+ 
   <h2 style="color: #388e3c;">🎯 Google Solution Challenge</h2>
   <p>This project was developed for the <strong>Google Solution Challenge 2025</strong>, where students solve real-world problems using technology to advance the <a href="https://sdgs.un.org/goals" target="_blank">UN Sustainable Development Goals</a>.</p>
   <p>Eco-Scan addresses:</p>
