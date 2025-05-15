@@ -72,6 +72,7 @@
     <li><strong>Backend:</strong> Firebase (Auth, Firestore)</li>
     <li><strong>Image Detection:</strong> TensorFlow Lite / OpenCV</li>
   </ul>
+   <img src="/images/SS4.png" alt="EcoScan Screenshot" width="850" height="500">
 
   <h2 style="color: #388e3c;">📈 Impact</h2>
   <ul>
@@ -87,9 +88,9 @@
   
   ## 👥  Contributors
   
- |[Khizar Saqib](https://github.com/Khizarkk7)|[Ali Osaid](https://github.com/ali-osaid01)|[Maham Aftab](https://github.com/mahumaftab)|[Sidra]()|
+ |[Khizar Saqib](https://github.com/Khizarkk7)|[Ali Osaid](https://github.com/ali-osaid01)|[Maham Aftab](https://github.com/mahumaftab)|[Sidra Tanvir](https://github.com/sidratanvir30)|
 |---|---|---|---|
-|<img src="https://avatars.githubusercontent.com/u/124410812?v=4">|<img src="https://avatars.githubusercontent.com/u/183327585?v=4">|<img src="https://avatars.githubusercontent.com/u/211882705?v=4">|<img src="">|
+|<img src="https://avatars.githubusercontent.com/u/124410812?v=4">|<img src="https://avatars.githubusercontent.com/u/183327585?v=4">|<img src="https://avatars.githubusercontent.com/u/211882705?v=4">|<img src="https://avatars.githubusercontent.com/u/144630563?v=4">|
 
 </div>
 
